@@ -46,4 +46,4 @@
 
 ## 스터디 자료
 - C#과 Unity로 2D 게임 개발하기(Ahmed Nassef, Rick Davidson, GameDev.tv Team) - [Snow Surfer]
-- C#과 Unity로 3D 게임 개발하기(Ben Tristem, Rick Davidson, GameDev.tv Team) [Galaxy Strike]
+- C#과 Unity로 3D 게임 개발하기(Ben Tristem, Rick Davidson, GameDev.tv Team) - [Galaxy Strike]
